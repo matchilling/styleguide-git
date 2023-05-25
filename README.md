@@ -12,7 +12,7 @@ The seven rules of a great git commit message:
 * Wrap the body at 72 characters
 * Use the body to explain what and why vs. how
 
-Keep in mind: [This](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) [has](https://www.git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#Commit-Guidelines) [all](https://github.com/torvalds/subsurface/blob/master/README#L82-109) [been](http://who-t.blogspot.co.uk/2009/12/on-commit-messages.html) [said](https://github.com/erlang/otp/wiki/writing-good-commit-messages) [before](https://github.com/spring-projects/spring-framework/blob/30bce7/CONTRIBUTING.md#format-commit-messages).
+Keep in mind: [This](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) [has](https://www.git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#Commit-Guidelines) [all](https://github.com/torvalds/subsurface-for-dirk/#contributing) [been](http://who-t.blogspot.co.uk/2009/12/on-commit-messages.html) [said](https://github.com/erlang/otp/wiki/writing-good-commit-messages) [before](https://github.com/spring-projects/spring-framework/blob/30bce7/CONTRIBUTING.md#format-commit-messages).
 
 ## License
 
